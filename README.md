@@ -5,6 +5,9 @@
 
 An Arduino Uno–based air intrusion detection system controlled via a **Bluetooth Terminal application**, featuring a **menu-driven command interface** for real-time monitoring and control.
 
+![Certificate](docs/certificate.jpeg)
+
+
 ---
 
 ## 📌 Description
@@ -47,6 +50,9 @@ All system feedback and status messages are transmitted via Bluetooth serial com
 4. When intrusion conditions are met:
    - The system sends alerts via Bluetooth Terminal
 5. All operations can be controlled dynamically using Bluetooth commands.
+
+
+![Circuit](docs/diagram.PNG)
 
 ---
 
